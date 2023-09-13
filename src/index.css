@@ -3,5 +3,5 @@
 @tailwind utilities;
 
 .containerWrap {
-  @apply container mx-auto max-w-4xl
+  @apply container mx-auto max-w-7xl max-h-full
 }
